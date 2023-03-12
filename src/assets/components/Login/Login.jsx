@@ -6,10 +6,10 @@ function Login() {
     <div className="login">
       <button onClick={() => console.log("Welcome!")}>Sign In</button>
     </div>
-
     {/* <h1 className="text-3xl font-bold underline">
   Hello world!
-</h1> */}</div>
+</h1> */}
+</div>
   )
 }
 
